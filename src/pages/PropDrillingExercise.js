@@ -4,8 +4,8 @@ import productOne from "../images/product1.gif";
 import productTwo from "../images/product2.gif";
 import ReactJson from "react-json-view";
 import WrapperBox from "../components/WrapperBox";
-import { useDispatch } from "react-redux";
-import { addToCart } from "../service/cart/slice";
+// import { useDispatch } from "react-redux";
+// import { addToCart } from "../service/cart/slice";
 
 const RootComponent = (props) => {
   // eslint-disable-next-line
